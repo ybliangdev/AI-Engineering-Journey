@@ -12,8 +12,7 @@
 # or C# / SQL / Bash snippet
 
 ⚠️ Speed-Bump / Question
-	•	Something unclear or worth exploring tomorrow
+- Something unclear or worth exploring tomorrow
 
 🔗 Links / References
-	•	…
-	•	…
+- 
